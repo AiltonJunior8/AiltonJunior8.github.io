@@ -1,0 +1,49 @@
+<script>
+// Troca de idioma: inglês na raiz, português em pt/. Nas páginas de pt/, traduz o
+// menu e aponta os links para as páginas em português; o botão leva à página
+// equivalente no outro idioma e guarda a escolha, que vale nas visitas seguintes.
+(function () {
+  var EN_PT = { "index.html": "index.html", "cv.html": "curriculo.html", "projects.html": "projetos.html" };
+  var PT_EN = {};
+  for (var k in EN_PT) PT_EN[EN_PT[k]] = k;
+  var ROTULO = { "about": "sobre", "cv": "currículo", "projects": "projetos" };
+
+  var caminho = window.location.pathname;
+  var emPt = /\/pt\/[^\/]*$/.test(caminho);
+  var arquivo = caminho.split("/").pop() || "index.html";
+  var raiz = emPt ? caminho.replace(/pt\/[^\/]*$/, "") : caminho.replace(/[^\/]*$/, "");
+  var outra = emPt ? raiz + (PT_EN[arquivo] || "index.html")
+                   : raiz + "pt/" + (EN_PT[arquivo] || "index.html");
+
+  var pref = null;
+  try { pref = window.localStorage.getItem("idioma"); } catch (e) {}
+  if (!emPt && pref === "pt") { window.location.replace(outra); return; }
+
+  function texto(a, t) {
+    var s = a.querySelector(".menu-text");
+    (s || a).textContent = t;
+  }
+
+  document.querySelectorAll(".navbar a.nav-link, .navbar a.navbar-brand").forEach(function (a) {
+    var t = a.textContent.trim();
+    if (t === "PT") {
+      a.setAttribute("href", outra);
+      a.classList.remove("active");
+      a.removeAttribute("aria-current");
+      if (emPt) {
+        texto(a, "EN");
+        a.setAttribute("aria-label", "English version");
+      }
+      a.addEventListener("click", function () {
+        try { window.localStorage.setItem("idioma", emPt ? "en" : "pt"); } catch (e) {}
+      });
+      return;
+    }
+    if (!emPt) return;
+    var href = (a.getAttribute("href") || "").split("/").pop() || "index.html";
+    if (EN_PT[href]) a.setAttribute("href", raiz + "pt/" + EN_PT[href]);
+    if (ROTULO[t]) texto(a, ROTULO[t]);
+    if (a.classList.contains("active") === false && EN_PT[href] === arquivo) a.classList.add("active");
+  });
+})();
+</script>

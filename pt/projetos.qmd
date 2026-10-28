@@ -1,0 +1,62 @@
+---
+pagetitle: "Projetos · Ailton Junior"
+lang: pt
+---
+
+# Projetos
+
+[Pesquisa em andamento e projetos de dados. O código público está no
+[GitHub](https://github.com/AiltonJunior8).]{.page-intro}
+
+:::: {.project}
+01
+
+::: {.body}
+[dissertação · PPGRI/UFSC]{.kicker}
+
+### A ascensão tecnológica da China na economia-mundo
+
+Investigação sobre como a China converte capacidade de inovação em posição na
+hierarquia econômica global. Combina a literatura de sistema-mundo e de
+complexidade econômica com séries de patentes da OMPI e um pipeline
+automatizado de revisão de literatura (OpenAlex, deduplicação, redes de
+citação).
+
+[Python · OpenAlex · NetworkX · patentes · complexidade econômica]{.stack}
+
+[painel de dados](https://china-innovation.vercel.app){.ref-link}
+:::
+::::
+
+:::: {.project}
+02
+
+::: {.body}
+[artigo · SimpoRI 2026]{.kicker}
+
+### O comércio mundial da cadeia do níquel e a RCEP
+
+Dados, pipeline e figuras sobre o comércio mundial da cadeia do níquel antes e
+depois da Parceria Econômica Regional Abrangente (RCEP), a partir da base
+BACI-CEPII (HS2012, 2012–2024).
+
+[Python · BACI-CEPII · comércio internacional]{.stack}
+
+[repositório](https://github.com/AiltonJunior8/cadeia-niquel-rcep){.ref-link}
+:::
+::::
+
+:::: {.project}
+03
+
+::: {.body}
+[artigo · SimpoRI 2026]{.kicker}
+
+### A posição da China na distribuição internacional de patentes
+
+ETL e análise das séries de patentes da OMPI, com a distribuição internacional
+dos depósitos e a posição da China entre 1980 e 2024.
+
+[Python · OMPI · séries de patentes]{.stack}
+:::
+::::

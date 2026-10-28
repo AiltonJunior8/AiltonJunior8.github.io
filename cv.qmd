@@ -1,0 +1,321 @@
+---
+pagetitle: "CV · Ailton Junior"
+lang: en
+---
+
+# Curriculum vitae
+
+[Short version of the [Lattes CV](https://lattes.cnpq.br/3747379999722831),
+updated on 14 September 2026. Bibliographic citation: PEREIRA JUNIOR, A. M.]{.cv-meta}
+
+:::::: {.section-grid}
+## education
+
+::::: {.body}
+:::: {.entry}
+[2025–present]{.when}
+
+::: {.what}
+**Master's in International Relations**
+· [PPGRI/UFSC](https://ppgri.ufsc.br), Florianópolis
+
+[Supervisor: Fábio Pádua dos Santos.]{.note}
+:::
+::::
+
+:::: {.entry}
+[2023]{.when}
+
+::: {.what}
+**University exchange (Advanced General Studies)**
+· [Beijing Normal University](https://english.bnu.edu.cn), Beijing
+
+[Department of Social Development and Public Policy.]{.note}
+:::
+::::
+
+:::: {.entry}
+[2020–2024]{.when}
+
+::: {.what}
+**Bachelor's in International Relations**
+· [UFSC](https://ri.ufsc.br), Florianópolis
+
+[Final thesis on the determinants of Chinese capital outflows.]{.note}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## experience
+
+::::: {.body}
+:::: {.entry}
+[2025–present]{.when}
+
+::: {.what}
+**Researcher in International Economics**
+· [FIESC Observatory](https://observatorio.fiesc.com.br)
+
+[Analyses of foreign trade and of Santa Catarina's export insertion; export
+potential platform; industrial competitiveness studies.]{.note}
+:::
+::::
+
+:::: {.entry}
+[2025]{.when}
+
+::: {.what}
+**Researcher (scholarship holder)** · [PPGRI/UFSC](https://ppgri.ufsc.br)
+:::
+::::
+
+:::: {.entry}
+[2024–2025]{.when}
+
+::: {.what}
+**Research Assistant (undergraduate research)**
+· [National Institute of Science and Technology for Studies on the United States (INCT-INEU)](https://ineu.org.br)
+
+[Determinants of Chinese capital outflows; analyses of China's economic and
+political situation.]{.note}
+:::
+::::
+
+:::: {.entry}
+[2023–2024]{.when}
+
+::: {.what}
+**Research Assistant**
+· [Research Group on Strategic Studies and Contemporary International Politics (GEPPIC/UFSC)](https://geppic.ufsc.br)
+:::
+::::
+
+:::: {.entry}
+[2023]{.when}
+
+::: {.what}
+**Teaching Assistant, Political Economy I**
+· [Economics undergraduate program, UFSC](https://economia.ufsc.br)
+:::
+::::
+
+:::: {.entry}
+[2021–2022]{.when}
+
+::: {.what}
+**Research Assistant, Economics Division**
+· [Transport and Logistics Laboratory (Labtrans/UFSC)](https://labtrans.ufsc.br)
+
+[Economic and financial feasibility of transport projects and measurement of
+environmental externalities.]{.note}
+:::
+::::
+
+:::: {.entry}
+[2021–2022]{.when}
+
+::: {.what}
+**Undergraduate Researcher (volunteer)** · [UFSC](https://ufsc.br)
+
+[Project on global governance.]{.note}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## groups
+
+::::: {.body}
+:::: {.entry}
+[current]{.when}
+
+::: {.what}
+**Member** · [Research Group on the Political Economy of World-Systems (GPEPSM/UFSC)](https://gpepsm.paginas.ufsc.br)
+:::
+::::
+
+:::: {.entry}
+[current]{.when}
+
+::: {.what}
+**Associate researcher** · [IEL/SC](https://ielsc.org.br)
+:::
+::::
+
+:::: {.entry}
+[2023–2024]{.when}
+
+::: {.what}
+**Member** · [GECHINA, University of Brasília](https://mngt.unb.br)
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## journal article
+
+::::: {.body}
+:::: {.entry .ref}
+[2024]{.when}
+
+::: {.what}
+SEABRA, F.; PEREIRA JUNIOR, A. M.; LEAL, P. S.; MURARO, V. G. ¿Importa la
+proximidad política para los socios prioritarios de Rusia en el mercado de
+petróleo? El impacto del conflicto en Ucrania. [Revista Uruguaya de Ciencia
+Política]{.venue}, v. 33, 2024.
+[[doi](https://doi.org/10.26851/RUCP.33.16)]{.ref-links}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## conference papers
+
+::::: {.body}
+:::: {.entry .ref}
+[2025]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Elementos para uma compreensão histórico-mundial da
+tecnologia: uma revisão da literatura acerca das políticas
+científico-tecnológicas de China e Brasil. In: [XIX Colóquio Brasileiro em
+Economia Política dos Sistemas-Mundo]{.venue}, Florianópolis, 2025.
+[[pdf](https://gpepsm.paginas.ufsc.br/files/2025/09/Ailton.pdf)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2025]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Estrutura de classes no processo de resistência da China
+à incorporação na economia-mundo capitalista. In: [II Simpósio de
+Pós-Graduandes em Economia Política Mundial da UFABC]{.venue}, São Bernardo do
+Campo, 2025. p. 22–26. Extended abstract.
+[[proceedings](https://ppgepm.ufabc.edu.br/anais-do-ii-simposio-do-epm/)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2023]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Rules of Global Governance: an exploratory study on
+International Relations Theory. In: [27th IPSA World Congress of Political
+Science]{.venue}, Buenos Aires, 2023. Conference Proceedings Library.
+[[pdf](https://www.ipsa.org/system/files/node/conferenceproceeding/174911-rules-global-governance-exploratory-study-international-relations-theory.pdf)]{.ref-links}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## magazines and press
+
+::::: {.body}
+:::: {.entry .ref}
+[2024]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Como o novo pacote de leis anti-China reflete a
+competição geopolítica e tecnológica. [Observatório Político dos Estados
+Unidos (OPEU)]{.venue}, 4 Oct. 2024.
+[[link](https://www.opeu.org.br/2024/10/04/como-o-novo-pacote-de-leis-anti-china-reflete-a-competicao-geopolitica-e-tecnologica/)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2024]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Janet Yellen e a disputa China-EUA. [Jornal GGN]{.venue},
+2024.
+[[link](https://jornalggn.com.br/geopolitica/janet-yellen-e-a-disputa-china-eua-por-ailton-pereira-jr/)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2024]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M.; PINHO, B. H. Venezuela e hegemonia dos EUA: impacto das
+sanções à luz das Convenções de Genebra. [Jornal GGN]{.venue}, 2024.
+[[link](https://jornalggn.com.br/eua-canada/venezuela-e-hegemonia-dos-eua-por-ailton-pereira-e-bruno-costa/)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2023]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Cooperação internacional com características chinesas:
+notas para o estudo da transição na ordem mundial. [Terracota: a revista do
+GECHINA]{.venue}, Brasília, v. 1, n. 6, p. 24–33, Dec. 2023.
+[[issue](https://mngt.unb.br/edicao-de-dezembro-2023-v-1-n-6/)]{.ref-links}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## presentations
+
+::::: {.body}
+:::: {.entry .ref}
+[2024]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. China, orden mundial y gobernanza internacional para el
+desarrollo: un análisis neogramsciano. [III Congreso Latinoamericano de
+Estudios Chinos]{.venue}, Universidad Nacional de La Plata, La Plata, 2024.
+[[event](https://www.iri.edu.ar/index.php/2024/06/16/iii-congreso-latinoamericano-de-estudios-chinos/)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2023]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M. Rules of Global Governance: an exploratory study on
+International Relations Theory. [27th IPSA World Congress of Political
+Science]{.venue}, Buenos Aires, 2023; also presented at the [ISA Virtual
+Conference]{.venue}, 2023.
+[[ipsa](https://wc2023.ipsa.org/wc/home) [isa](https://www.isanet.org)]{.ref-links}
+:::
+::::
+
+:::: {.entry .ref}
+[2022]{.when}
+
+::: {.what}
+PEREIRA JUNIOR, A. M.; LEAL, P. S. World trade of fertilizers: the role of
+large players and political alignments. [6th Undergraduate and Graduate Seminar
+in International Relations (ABRI)]{.venue}, USP, São Paulo; and [III Research
+Seminar in International Relations (PPGRI/UFSC)]{.venue}, Florianópolis, 2022.
+[[abri](https://www.abri.org.br) [ppgri](https://ppgri.ufsc.br)]{.ref-links}
+:::
+::::
+:::::
+::::::
+
+:::::: {.section-grid}
+## skills
+
+::::: {.body}
+<dl class="skills">
+  <dt>Data</dt>
+  <dd>Python, R, SQL, Databricks, ETL pipelines, Power BI, Excel</dd>
+  <dt>Methods</dt>
+  <dd>International trade, economic complexity, patent series, regression and network analysis</dd>
+  <dt>Tools</dt>
+  <dd>Git and GitHub, Quarto, Jupyter</dd>
+  <dt>Languages</dt>
+  <dd>Portuguese (native), English (fluent), Spanish (reading), French (basic)</dd>
+</dl>
+:::::
+::::::

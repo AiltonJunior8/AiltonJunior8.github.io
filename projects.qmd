@@ -1,0 +1,61 @@
+---
+pagetitle: "Projects · Ailton Junior"
+lang: en
+---
+
+# Projects
+
+[Ongoing research and data projects. Public code is on
+[GitHub](https://github.com/AiltonJunior8).]{.page-intro}
+
+:::: {.project}
+01
+
+::: {.body}
+[dissertation · PPGRI/UFSC]{.kicker}
+
+### China's technological rise in the world-economy
+
+How China turns innovation capacity into a position in the global economic
+hierarchy. It combines the world-systems and economic complexity literatures with
+WIPO patent series and an automated literature review pipeline (OpenAlex,
+deduplication, citation networks).
+
+[Python · OpenAlex · NetworkX · patents · economic complexity]{.stack}
+
+[data dashboard](https://china-innovation.vercel.app){.ref-link}
+:::
+::::
+
+:::: {.project}
+02
+
+::: {.body}
+[paper · SimpoRI 2026]{.kicker}
+
+### World trade in the nickel value chain and the RCEP
+
+Data, pipeline and figures on world trade in the nickel value chain before and
+after the Regional Comprehensive Economic Partnership (RCEP), based on the
+BACI-CEPII database (HS2012, 2012–2024).
+
+[Python · BACI-CEPII · international trade]{.stack}
+
+[repository](https://github.com/AiltonJunior8/cadeia-niquel-rcep){.ref-link}
+:::
+::::
+
+:::: {.project}
+03
+
+::: {.body}
+[paper · SimpoRI 2026]{.kicker}
+
+### China's position in the international distribution of patents
+
+ETL and analysis of WIPO patent series: the international distribution of
+filings and China's position from 1980 to 2024.
+
+[Python · WIPO · patent series]{.stack}
+:::
+::::

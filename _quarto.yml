@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4321
+    browser: true
+
+# Inglês é o padrão (páginas na raiz); a versão em português fica em pt/.
+lang: en
+
+website:
+  title: "Ailton Junior"
+  description: "Ailton Manoel Pereira Junior: International Relations (UFSC), international political economy, China and technology."
+  site-url: "https://AiltonJunior8.github.io"
+  favicon: assets/perfil.svg
+  search: false
+
+  # O menu é único para o site; nas páginas de pt/, o script em lang-switch.html
+  # traduz os rótulos, aponta os links para pt/ e troca o botão "PT" por "EN".
+  navbar:
+    pinned: false
+    collapse-below: md
+    title: "Ailton Junior"
+    right:
+      - text: "about"
+        href: index.qmd
+      - text: "cv"
+        href: cv.qmd
+      - text: "projects"
+        href: projects.qmd
+      - text: "PT"
+        href: pt/index.qmd
+        aria-label: "Versão em português"
+
+  page-footer:
+    left: |
+      © 2026 Ailton Manoel Pereira Junior
+    right:
+      - text: "email"
+        href: mailto:ailtonjunior726@gmail.com
+      - text: "lattes"
+        href: "https://lattes.cnpq.br/3747379999722831"
+      - text: "github"
+        href: https://github.com/AiltonJunior8
+
+format:
+  html:
+    # Tema claro (padrão) e escuro, alternáveis pelo botão da navbar.
+    # styles.scss traz a paleta clara e todas as regras; theme-dark.scss só
+    # sobrescreve as variáveis de cor.
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles.scss, theme-dark.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    anchor-sections: false
+    include-after-body: lang-switch.html
+    grid:
+      body-width: 860px

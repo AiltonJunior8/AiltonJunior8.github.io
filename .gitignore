@@ -1,0 +1,15 @@
+# Quarto
+/.quarto/
+/_site/
+/_freeze/
+*_files/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+**/*.quarto_ipynb

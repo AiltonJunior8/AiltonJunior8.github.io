@@ -1,0 +1,87 @@
+---
+pagetitle: "Ailton Junior"
+lang: en
+---
+
+:::: {.hero}
+::: {.hero-text}
+[International Relations · UFSC]{.kicker}
+
+# Ailton Manoel Pereira Junior
+
+[I research international political economy, focusing on China's international
+insertion, technological development and public policy.]{.lede}
+
+<ul class="links-row">
+  <li><a href="mailto:ailtonjunior726@gmail.com">email</a></li>
+  <li><a href="https://lattes.cnpq.br/3747379999722831">lattes</a></li>
+  <li><a href="https://github.com/AiltonJunior8">github</a></li>
+  <li><a href="cv.html">cv</a></li>
+</ul>
+:::
+
+![](assets/perfil.svg){.hero-photo fig-alt="Profile picture"}
+::::
+
+:::: {.section-grid}
+## about
+
+::: {.body}
+I hold a bachelor's degree in International Relations and am a master's student
+at the [Federal University of Santa Catarina](https://ufsc.br) (UFSC), in the
+[Graduate Program in International Relations](https://ppgri.ufsc.br) (PPGRI),
+supervised by Fábio Pádua dos Santos. My dissertation studies China's
+technological rise and its position in the hierarchy of the world-economy,
+using patent series and economic complexity indicators.
+
+I have been a research assistant at [Labtrans/UFSC](https://labtrans.ufsc.br),
+[GEPPIC/UFSC](https://geppic.ufsc.br) and [INCT-INEU](https://ineu.org.br), a
+teaching assistant in Political Economy I for the
+[Economics undergraduate program at UFSC](https://economia.ufsc.br), and an
+exchange student at [Beijing Normal University](https://english.bnu.edu.cn).
+:::
+::::
+
+:::: {.section-grid}
+## now
+
+::: {.body}
+::: {.now}
+- Researcher in International Economics at the
+  [FIESC Observatory](https://observatorio.fiesc.com.br)
+- Associate researcher at [IEL/SC](https://ielsc.org.br)
+- Member of the [Research Group on the Political Economy of World-Systems](https://gpepsm.paginas.ufsc.br)
+:::
+:::
+::::
+
+:::: {.section-grid}
+## interests
+
+::: {.body}
+<ul class="tags">
+  <li>International Political Economy</li>
+  <li>China's international insertion</li>
+  <li>Economic development</li>
+  <li>Innovation and patents</li>
+  <li>Economic complexity</li>
+  <li>World-systems</li>
+  <li>International trade</li>
+  <li>Public policy</li>
+</ul>
+:::
+::::
+
+:::: {.section-grid}
+## recent publication
+
+::: {.body}
+SEABRA, F.; PEREIRA JUNIOR, A. M.; LEAL, P. S.; MURARO, V. G.
+¿Importa la proximidad política para los socios prioritarios de Rusia en el
+mercado de petróleo? El impacto del conflicto en Ucrania. *Revista Uruguaya de
+Ciencia Política*, v. 33, 2024.
+[doi](https://doi.org/10.26851/RUCP.33.16){.ref-link}
+
+Full list in the [cv](cv.qmd).
+:::
+::::
